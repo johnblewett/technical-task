@@ -5,7 +5,7 @@ import boto3
 import pandas as pd
 import requests
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer "}
 api_url = "https://api.github.com"
 raw_url = "https://raw.githubusercontent.com"
 
